@@ -33,3 +33,5 @@
 # Ignore source code files for this assignment
 *.cc
 *.s
+
+Makefile
